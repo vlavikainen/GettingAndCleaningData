@@ -21,33 +21,34 @@ Original variable names have been cleaned from special characters.
 * subject (factor): an identifier (number 1 - 30) for each subject who carried out the experiment (n = 30).
 
 * activity (factor): performed activity:
-  1. walking
-  2. walkingupstairs
-  3. walkingdownstairs
-  4. sitting
-  5. standing 
-  6. laying
+   1 = walking
+   2 = walkingupstairs
+   3 = walkingdownstairs
+   4 = sitting
+   5 = standing 
+   6 = laying
 
 * variables:
-  *timeBodyAccXYZ
-  *timeGravityAccXYZ
-  *timeBodyAccJerkXYZ
-  *timeBodyGyroXYZ
-  *timeBodyGyroJerkXYZ
-  *timeBodyAccMag
-  *timeGravityAccMag
-  *timeBodyAccJerkMag
-  *timeBodyGyroMag
-  *timeBodyGyroJerkMag
-  *fttBodyAccXYZ
-  *fttBodyAccJerkXYZ
-  *fttBodyGyroXYZ
-  *fttBodyAccMag
-  *fttBodyBodyAccJerkMag
-  *fttBodyBodyGyroMag
-  *fttBodyBodyGyroJerkMag
-All variables are numeric and includes of MeanMean (Mean of the Mean) MeanStd (Mean of the standard deviation), which are calculated means of the means and sd's from the original data. 
-XYZ stands for triazial acceleration (Acc) and angular velocity (Gyro). 
-Time in the begining of variable stands for time domain signals and ftt Fast Fourier Transform.
+   timeBodyAccXYZ
+   timeGravityAccXYZ
+   timeBodyAccJerkXYZ
+   timeBodyGyroXYZ
+   timeBodyGyroJerkXYZ
+   timeBodyAccMag
+   timeGravityAccMag
+   timeBodyAccJerkMag
+   timeBodyGyroMag
+   timeBodyGyroJerkMag
+   fttBodyAccXYZ
+   fttBodyAccJerkXYZ
+   fttBodyGyroXYZ
+   fttBodyAccMag
+   fttBodyBodyAccJerkMag
+   fttBodyBodyGyroMag
+   fttBodyBodyGyroJerkMag
 
-More information about the variables can be found from original dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+   All variables are numeric and includes of MeanMean (Mean of the Mean) MeanStd (Mean of the standard deviation), which are calculated means of the means and sd's from the original data. 
+   XYZ stands for triazial acceleration (Acc) and angular velocity (Gyro). 
+   Time in the begining of variable stands for time domain signals and ftt Fast Fourier Transform.
+
+   More information about the variables can be found from original dataset: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
