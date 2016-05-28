@@ -21,30 +21,30 @@ Original variable names have been cleaned from special characters.
 * subject (factor): an identifier (number 1 - 30) for each subject who carried out the experiment (n = 30).
 
 * activity (factor): performed activity:
-   1 = walking
-   2 = walkingupstairs
-   3 = walkingdownstairs
-   4 = sitting
-   5 = standing 
-   6 = laying
+   1 = walking,
+   2 = walkingupstairs,
+   3 = walkingdownstairs,
+   4 = sitting,
+   5 = standing,
+   6 = laying,
 
 * variables:
-   timeBodyAccXYZ
-   timeGravityAccXYZ
-   timeBodyAccJerkXYZ
-   timeBodyGyroXYZ
-   timeBodyGyroJerkXYZ
-   timeBodyAccMag
-   timeGravityAccMag
-   timeBodyAccJerkMag
-   timeBodyGyroMag
-   timeBodyGyroJerkMag
-   fttBodyAccXYZ
-   fttBodyAccJerkXYZ
-   fttBodyGyroXYZ
-   fttBodyAccMag
-   fttBodyBodyAccJerkMag
-   fttBodyBodyGyroMag
+   timeBodyAccXYZ,
+   timeGravityAccXYZ,
+   timeBodyAccJerkXYZ,
+   timeBodyGyroXYZ,
+   timeBodyGyroJerkXYZ,
+   timeBodyAccMag,
+   timeGravityAccMag,
+   timeBodyAccJerkMag,
+   timeBodyGyroMag,
+   timeBodyGyroJerkMag,
+   fttBodyAccXYZ,
+   fttBodyAccJerkXYZ,
+   fttBodyGyroXYZ,
+   fttBodyAccMag,
+   fttBodyBodyAccJerkMag,
+   fttBodyBodyGyroMag,
    fttBodyBodyGyroJerkMag
 
    All variables are numeric and includes of MeanMean (Mean of the Mean) MeanStd (Mean of the standard deviation), which are calculated means of the means and sd's from the original data. 
