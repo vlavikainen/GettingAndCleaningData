@@ -2,10 +2,10 @@
 This repository contains my submission of the Coursera "Getting and Cleaning Data" course project.
 ## Files
 
-*`<README.md>` Information about this repository
-*`<UCI_HAR_Summary.txt>` Data set which contains summary of the Human Activity Recognition Using Smartphones Data Set (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). Summary consists original data grouped by each subject and their activities with mean of the means and standard deviations of the original variables.
-*`<CodeBook.md>` Information on the variables of the data set
-*`<run_analysis.R>` R script which creates data in UCI_HAR_Summary.txt (see Summary of the script for more information)
+* `<README.md>` Information about this repository
+* `<UCI_HAR_Summary.txt>` Data set which contains summary of the Human Activity Recognition Using Smartphones Data Set (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). Summary consists original data grouped by each subject and their activities with mean of the means and standard deviations of the original variables.
+* `<CodeBook.md>` Information on the variables of the data set
+* `<run_analysis.R>` R script which creates data in UCI_HAR_Summary.txt (see Summary of the script for more information)
 
 ## Summary of the script
 
